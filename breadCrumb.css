@@ -1,0 +1,16 @@
+ul {
+  list-style: none;
+  display: flex;
+}
+
+li:first-child:before {
+  content: "";
+}
+
+li:before {
+  content: "\27a5";
+}
+
+li {
+  margin-right: 5px;
+}

@@ -1,0 +1,42 @@
+/* .app {
+  width: 100%;
+  display: flex;
+}
+
+.app > div {
+  color: white;
+  background-color: black;
+  width: 20px;
+  height: 20px;
+  border: 1px solid white;
+}
+
+.input {
+  margin-top: 50px;
+}
+
+.absolute {
+  border: 1px solid black;
+}
+
+.container > ul {
+  list-style: none;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid black;
+  padding: 0;
+}
+
+.list li {
+  text-align: center;
+}
+
+ */
+
+.container {
+  width: 0;
+  border: 100px solid;
+  border-color: red blue yellow green;
+}
